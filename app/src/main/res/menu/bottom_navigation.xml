@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_aks"
+        android:title="Aks"
+        android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+        />
+    <item
+        android:id="@+id/nav_goods"
+        android:title="Goods"
+        android:icon="@drawable/ic_playlist_add_check_black_24dp"
+        />
+    <item
+        android:id="@+id/nav_favorites"
+        android:title="Orders"
+        android:icon="@drawable/ic_favorite_border_black_24dp"
+        />
+    <!--<item-->
+        <!--android:id="@+id/nav_orders"-->
+        <!--android:title="Order"-->
+        <!--android:icon="@drawable/ic_playlist_add_check_black_24dp"-->
+        <!--/>-->
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        />
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wateroder</string>
+    <string name="balance">35.5</string>
+    <string name="username">User</string>
+    <string name="password">Password</string>
+    <string name="login_success">Login Success!</string>
+    <string name="login_fail">Login Failed!</string>
+    <string name="username_empty">User Name Can\'t be Empty!</string>
+    <string name="pwd_empty">Please Enter the Password</string>
+    <string name="rec_empty">Please Enter Your Password Again!</string>
+    <string name="aks">aks</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="phone">phone</string>
+    <string name="address">address</string>
+    <string name="card">bankCard</string>
+</resources>
